@@ -19,4 +19,5 @@
 
 * [Alfred Today © Jeff Stein](https://github.com/manuelpiesold/alfred/blob/master/workflows/AlfredToday.alfredworkflow?raw=true) - Shows a today menu from Google Calendar and Microsoft Exchange 365
 * [Encode/Decode © Will Farrell](https://github.com/manuelpiesold/alfred/blob/master/workflows/EncodeDecode.alfredworkflow?raw=true) - Encode/Decode Strings
+* [Numi © Dmitry Nikolaev / Numi](https://github.com/manuelpiesold/alfred/blob/master/workflows/Numi.alfredworkflow?raw=true) - Calculator which interacts with [Numi](https://numi.io/). (Tip: Disable default calculator and set the trigger for this workflow to `=`)
 
